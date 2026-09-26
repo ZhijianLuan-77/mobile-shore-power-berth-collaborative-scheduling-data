@@ -1,0 +1,11 @@
+Ship_ID,Type_ship,r_j,e_j,p_j
+J1,None,17.1,0,0
+J2,Low,1.4,1,300
+J3,High,16.0,1,800
+J4,High,3.5,1,800
+J5,None,21.6,0,0
+J6,Low,52.0,1,300
+J7,None,62.6,0,0
+J8,None,1.6,0,0
+J9,None,47.4,0,0
+J10,High,6.5,1,800
