@@ -78,7 +78,7 @@ The `Results/MSPO-Congestion Instances/` folder contains the results for:
 - Fast TLBBD, Exact TLBBD, Gurobi, ALNS, and GVNS;
 - BSP-MILP-based experiments;
 - simultaneous MSPO and berth release;
-- individual MSPO assignment and sequencing;
+- coordinated MSPO and berth scheduling, evaluated against a two-stage sequential benchmark with MILP-based OPS allocation;
 - explicit MSPO relocation time.
 
 The `Results/Berth-Congestion Instances/` folder contains the results for Fast TLBBD, Exact TLBBD, Gurobi, ALNS, and GVNS.
